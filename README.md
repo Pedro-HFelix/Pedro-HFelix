@@ -5,6 +5,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Pedro-HFelix&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FF0000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Pedro-HFelix&theme=darkhub&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
@@ -13,7 +14,8 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Pedro-HFelix&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" alt="Pedro Félix github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+ <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-HFELIX&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117&hide=html,css"/>
+
 </div>
 
 
@@ -26,13 +28,27 @@
 <div align="center">
   
 ### Main skills:
-![C#](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/csharp.png)
-![Java](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/java.png)
-![MySQl](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/mysql.png)
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=Java&logoColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![C#](https://img.shields.io/badge/-C%20Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)&nbsp;
+
+
+### Other knowledge:
+![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
+![Postgresql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp; 
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117)&nbsp;
+
+
 ### Studying in this moment:
-![Java Script](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/js.png)
-![Node.Js](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/nodejs.png)
-![PHP](https://raw.githubusercontent.com/Pedro-HFelix/Portifolio/main/Portifolio/data/imgs/php.png)
+![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)&nbsp;
+
 
 </div>
 
