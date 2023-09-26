@@ -32,23 +32,28 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-C%20Sharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)&nbsp;
 ![Spring Framework](https://img.shields.io/badge/-Spring%20Framework-0D1117?style=for-the-badge&logo=spring&logoColor=green&labelColor=0D1117)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
 
 
 
 ### Other knowledge:
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp; 
 ![Postgresql](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp; 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117)&nbsp;
-
-
-### Studying in this moment:
 ![Node.js](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+
+### Studying in this moment:
+
 ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)&nbsp;
-
+![Express.js](https://img.shields.io/badge/-Express.js-0D1117?style=for-the-badge&logo=express&labelColor=0D1117)&nbsp;
+![ReactJS](https://img.shields.io/badge/-ReactJS-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
+![Styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117)&nbsp;
+![NestJs](https://img.shields.io/badge/-NestJs-0D1117?style=for-the-badge&logo=NestJs&labelColor=0D1117)&nbsp;
+![VITE](https://img.shields.io/badge/-VITE-0D1117?style=for-the-badge&logo=VITE&labelColor=0D1117)&nbsp;
 
 </div>
 
