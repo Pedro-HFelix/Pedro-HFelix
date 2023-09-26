@@ -54,6 +54,7 @@
 ![Styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117)&nbsp;
 ![NestJs](https://img.shields.io/badge/-NestJs-0D1117?style=for-the-badge&logo=NestJs&labelColor=0D1117)&nbsp;
 ![VITE](https://img.shields.io/badge/-VITE-0D1117?style=for-the-badge&logo=VITE&labelColor=0D1117)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=GraphQL&labelColor=0D1117)&nbsp;
 
 </div>
 
