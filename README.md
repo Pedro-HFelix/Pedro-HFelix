@@ -38,6 +38,8 @@
   ![SQL Server](https://img.shields.io/badge/-SQL%20Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=0D1117)&nbsp;
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117)&nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
+  
   
   ## FRONT-END
   
@@ -49,20 +51,11 @@
   ![VITE](https://img.shields.io/badge/-VITE-0D1117?style=for-the-badge&logo=VITE&labelColor=0D1117)&nbsp;
   ![Boostrap](https://img.shields.io/badge/-Boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;  
   ![Styled-components](https://img.shields.io/badge/-styled%20components-0D1117?style=for-the-badge&logo=styledcomponents&labelColor=0D1117)&nbsp;
+  ![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp;
 
 ## Version control 
 
   ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-
-### Future studies
-
-![NestJs](https://img.shields.io/badge/-NestJs-0D1117?style=for-the-badge&logo=NestJs&labelColor=0D1117)&nbsp;
-![ReactNative](https://img.shields.io/badge/-ReactNative-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=for-the-badge&logo=nextjs&labelColor=0D1117)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=0D1117)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-0D1117?style=for-the-badge&logo=docker&labelColor=0D1117)&nbsp;
-![GraphQL](https://img.shields.io/badge/-GraphQL-0D1117?style=for-the-badge&logo=graphql&labelColor=0D1117)&nbsp;
 
 </div>
 
